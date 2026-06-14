@@ -1,0 +1,6 @@
+burger,🍔 Food,10.0
+shushi,🍔 Food,10.0
+electronic,🏠 Home,120.0
+iphone,🏠 Home,10.0
+car,🏠 Home,200000.0
+rice,🍔 Food,1.0
